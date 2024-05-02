@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋</h1>
-***
+
+
 - 2 years experience on FIRST Tech Challenge robotics
 - Alternate account [here](https://github.com/gordonfdsa)
 
@@ -11,7 +12,8 @@
 - 😄 Pronouns: he/him
 
 Languages:
-![image](https://github.com/ZhuG07/ZhuG07/assets/115324876/011775d8-fe7f-4d88-bf90-6c3a31313f56)![image](https://github.com/ZhuG07/ZhuG07/assets/115324876/3110ce73-1d39-4d34-a655-8df9189dbff7)
+![](https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg| height = 200)
+![](https://github.com/ZhuG07/ZhuG07/assets/115324876/011775d8-fe7f-4d88-bf90-6c3a31313f56| height =200)
 
 
 <!--
