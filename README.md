@@ -11,9 +11,9 @@
 - 📫 How to reach me: insert_email
 - 😄 Pronouns: he/him
 
-Languages:
+###Languages:
 <img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" width="200">
-<img src="[https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png)" width="200" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" width="200" >
 
 
 <!--
