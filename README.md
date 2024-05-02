@@ -4,10 +4,10 @@
 - 2 years experience on FIRST Tech Challenge robotics
 - participation in CCC, USACO, DMOPC
 - Alternate account [here](https://github.com/gordonfdsa)
-\
+<br/><br/>
 - 🔭 I’m currently working on Odometry/PID implementation in [FTC-Offseason-Repository](https://github.com/sta-titansrobotics/FTC-Offseason-2024)
 - 🌱 I’m currently learning intermediate DP/graph theory topics 
-- ⚡ Fun fact: Check out my <code style="color : yellow">DMOJ</code> account: [Gordon789](https://dmoj.ca/user/Gordon789)
+- ⚡ Fun fact: Check out my $${\color{yellow}DMOJ}$$ account: [Gordon789](https://dmoj.ca/user/Gordon789)
 - 📫 How to reach me: insert_email
 - 😄 Pronouns: he/him
 
