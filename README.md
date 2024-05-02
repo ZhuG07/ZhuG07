@@ -12,9 +12,8 @@
 - 😄 Pronouns: he/him
 
 Languages:
-![](https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg| height = 200)
-![](https://github.com/ZhuG07/ZhuG07/assets/115324876/011775d8-fe7f-4d88-bf90-6c3a31313f56| height =200)
-<img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" width="200" height="400">
+<img src="https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg" width="200">
+<img src="[https://i.pinimg.com/736x/a1/61/50/a161501cdf14eaba81addec865efbade.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png)" width="200" >
 
 
 <!--
