@@ -1,4 +1,4 @@
-<div align=”center”>[### Hello 👋]
+<h1 align="center">Hello 👋</h1>
 ***
 - 2 years experience on FIRST Tech Challenge robotics
 - Alternate account [here](https://github.com/gordonfdsa)
