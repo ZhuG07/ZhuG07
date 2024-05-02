@@ -1,8 +1,5 @@
 ### Hello 👋
 
-<!--
-**ZhuG07/ZhuG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 2 years experience on FIRST Tech Challenge robotics
 - Alternate account [here](https://github.com/gordonfdsa)
 
@@ -12,3 +9,8 @@
 
 - 📫 How to reach me: insert_email
 - 😄 Pronouns: he/him
+
+
+<!--
+**ZhuG07/ZhuG07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
