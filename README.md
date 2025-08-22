@@ -6,7 +6,7 @@ Hi! I'm a first-year Computer Science student at University of Toronto
 - CCC, USACO
 - Alternate account [here](https://github.com/gordonfdsa)
 <br/><br/>
-- I’m currently working on Odometry/PID implementation in [FTC-Offseason-Repository]((https://github.com/sta-titansrobotics/19446-IntoTheDeep)
+- Implemented Odometry/PID for robotics in [FTC - IntoTheDeep](https://github.com/sta-titansrobotics/19446-IntoTheDeep)
 - I’m currently learning intermediate DP/graph theory topics 
 - How to reach me: GordonZ@gmail.com
 
