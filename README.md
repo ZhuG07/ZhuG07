@@ -5,7 +5,6 @@ Hi! I'm a first-year Computer Science student at University of Toronto
 - 3 years experience on FIRST Tech Challenge robotics
 - CCC, USACO
 - Alternate account [here](https://github.com/gordonfdsa)
-<br/><br/>
 - Implemented Odometry/PID for robotics in [FTC - IntoTheDeep](https://github.com/sta-titansrobotics/19446-IntoTheDeep)
 - html/css
 
