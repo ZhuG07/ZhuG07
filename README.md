@@ -2,8 +2,6 @@
 
 Second-year Computer Science and Statistics student at the University of Toronto, in the co-op program.
 
-Most of what I build sits where machine learning meets software people actually use: a medical scribe that has to run on a clinic's own hardware, a chess engine that has to decide inside a time budget, a robot that has to know where it is on the field.
-
 ## Experience
 
 ### Docentra
@@ -43,13 +41,4 @@ Image classification models that identify blood diseases from blood smear images
 
 Paste in a lease, a job offer or a terms of service and get a plain-English summary, colour-coded highlights on the original text for risks, obligations, rights and deadlines, and an overall risk level tailored to whether you are a tenant, employee, consumer or student. Built at a hackathon.
 
-## Skills
 
-- **Languages:** Python, Java, C++, SQL
-- **ML and data:** PyTorch, TensorFlow, FastAI, scikit-learn, Pandas, NumPy, OpenCV, Whisper
-- **Frameworks and tools:** FastAPI, SQLite, CUDA, Hugging Face, Jupyter
-- **Software and robotics:** object-oriented design, UML, PID control, odometry, RoadRunner
-
----
-
-I also have an older account at [gordonfdsa](https://github.com/gordonfdsa).
